@@ -1,0 +1,10 @@
+BRG001,Roti,20
+BRG002,AirMineral,15
+BRG003,TehBotol,10
+BRG004,Susu,42
+BRG005,Jeruk Kalamansi,20
+BRG006,Oreo,4
+BRG007,JusAlpukat,62
+BRG008,Cokelat,32
+BRG009,Biskuit Keju,20
+BRG010,Pisang Coklat,10
